@@ -4,7 +4,7 @@ Aloitin opiskelemaan Helsingin yliopiston järjestämää [Full stack open](http
 
 ## Kurssiin käytetty aika
 
-Yhteensä aikaa käytetty: 4,5 tuntia.
+Yhteensä aikaa käytetty: 5,5 tuntia.
 
 | päivä | aika (h) | mitä tein |
 | ------| -------- | :----------------------------------------------------------- |
@@ -13,3 +13,4 @@ Yhteensä aikaa käytetty: 4,5 tuntia.
 | 4.1   | 1        | Single Page App ja JavaScript-kirjastot, kerrattu HTML ja CSS-perusteet |
 | 5.1   | 1        | Osan 0 kaaviotehtävät |
 | 6.1   | 0,5      | HTML:n lomakkeiden kertaus |
+| 9.1   | 1        | Osa 1 tehtävä 1.1 |
