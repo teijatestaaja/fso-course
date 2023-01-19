@@ -24,6 +24,7 @@ Yhteensä aikaa käytetty: 9,75 tuntia.
 | 16.1  | 1        | React-komponentin tila ja tapahtumankäsittely, Osa 1 tehtävä 1.6 |
 | 17.1  | 1        | React-komponentin tila ja tapahtumankäsittely, Osa 1 tehtävä 1.7 |
 | 18.1  | 0,5      | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävä 1.8 |
+| 19.1  | 0,25     | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävä 1.9 |
 
 ## Linkit
 - [Mozillan JavaScript-materiaali](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
