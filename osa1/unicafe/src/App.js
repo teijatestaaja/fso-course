@@ -13,11 +13,11 @@ const Button = ({ handleClick, text }) => (
 const StatisticLine = ({ option, result }) => {
   if(option==="positive"){
     return(
-      <p>{option} {result} %</p>
+      <tr><td>{option}</td><td>{result} %</td></tr>
     )
   }
   return(
-    <p>{option} {result} </p>
+    <tr><td>{option}</td><td>{result}</td></tr>
   )
 }
 
@@ -28,13 +28,17 @@ const Statistics = (props) => {
     )
   }  
   return(
-    <div>
-      <StatisticLine option="good" result={props.good} />
-      <StatisticLine option="neutral" result={props.neutral} />
-      <StatisticLine option="bad" result={props.bad} />
-      <StatisticLine option="all" result={props.all} />
-      <StatisticLine option="average" result={props.average} />
-      <StatisticLine option="positive" result={props.positive} />
+       <div>
+        <table>
+            <tbody>
+              <StatisticLine option="good" result={props.good} />
+              <StatisticLine option="neutral" result={props.neutral} />
+              <StatisticLine option="bad" result={props.bad} />
+              <StatisticLine option="all" result={props.all} />
+              <StatisticLine option="average" result={props.average} />
+              <StatisticLine option="positive" result={props.positive} />
+           </tbody>
+        </table>
     </div>
   )
 }
