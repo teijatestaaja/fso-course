@@ -18,15 +18,18 @@ const App = () => {
     setSelected(random)
   }
 
-  // Adds a vote to the anecdote in an array.
+  // Adds a vote to the anecdote in an array, and updates most voted.
   const registerVote = () => {
     const copyOfVotes = [...votes]
     copyOfVotes[selected] += 1
     setVotes(copyOfVotes)
+    const indexOfBest = copyOfVotes.indexOf(Math.max(...copyOfVotes))
+    setMostVoted(indexOfBest)
   }
 
   const [selected, setSelected] = useState(0)
   const [votes, setVotes] = useState(new Array(8).fill(0))
+  const [mostVoted, setMostVoted] = useState(0)
 
   return (
     <div>
@@ -35,6 +38,9 @@ const App = () => {
       <p>This anecdote has {votes[selected]} votes.</p>
       <button onClick={registerVote}>Vote</button>
       <button onClick={setRandomAnecdote}>Next anecdote</button>
+      <h3>Anecdote with most votes</h3>
+      <p>{anecdotes[mostVoted]}</p>
+      <p>This anecdote has {votes[mostVoted]} votes.</p>
     </div>
   )
 }

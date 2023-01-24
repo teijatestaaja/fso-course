@@ -1,10 +1,10 @@
 # Full Stack Open -kurssin tehtävät
 
-Aloitin opiskelemaan Helsingin yliopiston järjestämää [Full stack open](https://fullstackopen.com/) -kurssia maanantaina 2.1.2023. Tavoitteenani on suorittaa kurssi kevään 2023 aikana työn ohessa arkipäivinä opiskellen noin vartista tuntiin per päivä. Viikonloput ovat vapaat perheelle ja muille harrastuksille.
+Aloitin opiskelemaan Helsingin yliopiston järjestämää [Full stack open](https://fullstackopen.com/) -kurssia maanantaina 2.1.2023. Tavoitteenani on suorittaa kurssi kevään 2023 aikana työn ohessa arki-iltoina opiskellen noin vartista tuntiin per päivä. Viikonloput ovat vapaat perheelle ja muille harrastuksille.
 
 ## Kurssiin käytetty aika
 
-Yhteensä aikaa käytetty: 10,75 tuntia.
+Yhteensä aikaa käytetty: 11,75 tuntia.
 
 | päivä | aika (h) | mitä tein |
 | ------| -------- | :----------------------------------------------------------- |
@@ -28,10 +28,12 @@ Yhteensä aikaa käytetty: 10,75 tuntia.
 | 20.1  | 0,5      | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävä 1.10 |
 | viikko 4 |  |  |
 | 23.1  | 0,25      | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävä 1.11 |
+| 24.1  | 1         | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävät 1.12, 1.13, 1.14 |
 
 ## Linkit
 - [Mozillan JavaScript-materiaali](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript language overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview)
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)
+- [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [React tutoriaali](https://reactjs.org/tutorial/tutorial.html)
 - [React hooks](https://reactjs.org/docs/hooks-state.html)]
