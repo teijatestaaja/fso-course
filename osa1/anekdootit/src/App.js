@@ -18,12 +18,22 @@ const App = () => {
     setSelected(random)
   }
 
+  // Adds a vote to the anecdote in an array.
+  const registerVote = () => {
+    const copyOfVotes = [...votes]
+    copyOfVotes[selected] += 1
+    setVotes(copyOfVotes)
+  }
+
   const [selected, setSelected] = useState(0)
+  const [votes, setVotes] = useState(new Array(8).fill(0))
 
   return (
     <div>
       <h3>Anecdote of the day</h3>
       <p>{anecdotes[selected]}</p>
+      <p>This anecdote has {votes[selected]} votes.</p>
+      <button onClick={registerVote}>Vote</button>
       <button onClick={setRandomAnecdote}>Next anecdote</button>
     </div>
   )
