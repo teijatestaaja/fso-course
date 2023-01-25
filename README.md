@@ -29,6 +29,7 @@ Yhteensä aikaa käytetty: 11,75 tuntia.
 | viikko 4 |  |  |
 | 23.1  | 0,25      | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävä 1.11 |
 | 24.1  | 1         | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävät 1.12, 1.13, 1.14 |
+| 25.1  | 0,25      | Kokoelmien renderöinti ja moduulit, teorian opiskelu |
 
 ## Linkit
 - [Mozillan JavaScript-materiaali](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
