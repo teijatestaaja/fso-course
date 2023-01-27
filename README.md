@@ -4,7 +4,7 @@ Aloitin opiskelemaan Helsingin yliopiston järjestämää [Full stack open](http
 
 ## Kurssiin käytetty aika
 
-Yhteensä aikaa käytetty: 12,5 tuntia.
+Yhteensä aikaa käytetty: 13 tuntia.
 
 | päivä | aika (h) | mitä tein |
 | ------| -------- | :----------------------------------------------------------- |
@@ -31,6 +31,7 @@ Yhteensä aikaa käytetty: 12,5 tuntia.
 | 24.1  | 1         | Monimutkaisempi tila, Reactin debuggaus, Osa 1 tehtävät 1.12, 1.13, 1.14 |
 | 25.1  | 0,25      | Kokoelmien renderöinti ja moduulit, teorian opiskelu |
 | 26.1  | 0,5       | Kokoelmien renderöinti ja moduulit, teorian opiskelu jatko |
+| 27.1  | 0,5       | Kokoelmien renderöinti ja moduulit, Osa 2 tehtävä 2.1 |
 
 ## Linkit
 - [Mozillan JavaScript-materiaali](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
